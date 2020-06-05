@@ -30,4 +30,5 @@ class TestBaidu(unittest.TestCase):
         cls.driver.quit()
 
 if __name__ == "__main__":
+    # 测试
     unittest.main()
